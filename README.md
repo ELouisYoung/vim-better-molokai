@@ -1,13 +1,13 @@
 vim-better-molokai
 ===================
 
-molokai for 256 color terminal vim, with the silly background color removed
+molokai for 256 color terminal vim, with the silly background color removed; thanks molo, but I'll let my terminal emulator decide on my background color.
 
-add this to your Vundle file:
-Bundle 'ELouisYoung/vim-bettter-molokai'
+Use it with Vundle!:
+"Bundle 'ELouisYoung/vim-bettter-molokai'"
 
-and then use with this in your .vimrc
-colo better-molokai
+and set this in your .vimrc:
+"colo better-molokai"
 
 
 
